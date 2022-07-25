@@ -4,7 +4,7 @@ API para controle de estacionamento
 
 ---
 
-## Tecnologias
+## Tecnologias Utilizadas
 - Java 17
 - Spring Boot
 - Spring MVC
